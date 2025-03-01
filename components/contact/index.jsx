@@ -13,7 +13,7 @@ function ContactSection() {
               Or at least optimize our workflows?
             </h2>
             <div className="flex items-center justify-center">
-              <Link 
+              <Link
                 href="mailto:sb78639@gmail.com"
                 className="group inline-flex items-center text-lg md:text-xl hover:opacity-70 transition-opacity"
               >
